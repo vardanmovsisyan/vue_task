@@ -1,8 +1,4 @@
-# vue_task
-
-> A Vue.js project
-
-## Description
+# Description
 
 After running `npm run build` you can edit `dist\static\externalconfig.js` file to customize the options needed
 
